@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mike-Pits
-- 👀 I’m interested in woodworking, EQ, growth-minded tools (apart fm coding)
-- 🌱 I’m currently learning Python/Data science
+- 👀 Apart fm coding I’m interested in woodworking, EQ, growth-minded tools
+- 🌱 I’m currently learning Python/Data science/AI
 - 💞️ I’m looking to collaborate on fisrt baby steps in Python/Data science
 - 📫 How to reach me best by emailing to me: mgp0227@gmail.com 
 
